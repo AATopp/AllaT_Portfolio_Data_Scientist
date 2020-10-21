@@ -6,4 +6,4 @@ I would love to showcase the projects I have been working on in the last 2 years
 * NOOAAs weather API 
 * Analysing Movies dataset with Pandas and SQLite
 * Feature Engineering California House Prices with Pandas 
-* 10 years of data stored in database 
+* Data Science Practicum - Data Engineering project
