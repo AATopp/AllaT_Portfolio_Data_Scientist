@@ -11,3 +11,5 @@ I would love to showcase the projects I have been working on in the last 2 years
 * ### Feature Engineering California House Prices with Pandas 
 
 * ### Data Science Practicum - Data Engineering project
+
+* ### Data Cleansing 
