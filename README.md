@@ -11,5 +11,5 @@ In this project I wanted to showcasw my SQL knowlege in Python and quering data.
 * ### Feature Engineering California House Prices with Pandas 
 In this complex project I cleaned data and created additional features, visualized house pricing in California using matplotlib and seaborn, trained random forest regression model and evaluated the model on the test set.
 * ### Data Science Practicum - Data Engineering project
-
+In this ongoing project I had a chance to work with 8 GB dataset from of Yelp Reviews to use for Virtual Machine performance using PostgreSQL database and Linux environment. The whole process of the project is listed on its page. 
 * ### Data Cleansing 
