@@ -13,3 +13,4 @@ In this complex project I cleaned data and created additional features, visualiz
 * ### Data Science Practicum - Data Engineering project
 In this ongoing project I had a chance to work with 8 GB dataset from of Yelp Reviews to use for Virtual Machine performance using PostgreSQL database and Linux environment. The whole process of the project is listed on its page. 
 * ### Data Cleansing
+123
