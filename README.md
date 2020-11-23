@@ -10,7 +10,7 @@ In these two projects I wanted to showcase how I work with APIs in Python withou
 In this project I wanted to showcasw my SQL knowlege in Python and quering data. I created an SQLite database, loaded data from DataFrames into an SQLite database and from SQLite into DataFrame, and performed simple queries with joins.
 * ### [Feature Engineering California House Prices with Pandas](https://github.com/AATopp/AllaT_Portfolio_Data_Scientist/blob/main/Pandas%20Projects/California%20House%20Prices%20with%20Pandas/California%20House%20Prices%20with%20Pandas.ipynb) 
 In this complex project I cleaned data and created additional features, visualized house pricing in California using matplotlib and seaborn, trained random forest regression model and evaluated the model on the test set.
-* ### Data Science Practicum - Data Engineering project
+* ### Data Science Practicum - [Data Engineering project](https://github.com/AATopp/AllaT_Portfolio_Data_Scientist/tree/main/Cloud%20Project%20Capstone%20Regis)
 In this ongoing project I had a chance to work with 8 GB dataset from of Yelp Reviews to use for Virtual Machine performance using PostgreSQL database and Linux environment. The whole process of the project is listed on its page. 
 * ### Data Cleansing
 
