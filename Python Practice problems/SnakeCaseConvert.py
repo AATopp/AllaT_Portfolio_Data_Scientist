@@ -3,7 +3,6 @@
 
 string = "hiHiWhereWhy"
 
-index_of_upper = 0
 for letter in string:
     if letter.isupper():
         string=string.replace(letter, "_" + letter.lower())
