@@ -1,12 +1,10 @@
-# Write a program that asks the user for five numbers and then prints out the average of those numbers. 
-# When you run your program, it should match the following format:
+for x in range(51):
 
-string = "eshChlen"
-
-for letter in string:
-    if letter.isupper():
-        string=string.replace(letter, "_" + letter.lower())
-        
-string = string.lower()
-
-print(string)
+    if x % 3 == 0 and x % 5 == 0:
+        print('FizzBuzz')
+    elif x % 3 == 0:
+        print('Fizz')
+    elif x % 5 == 0:
+        print('Buzz')
+    else:
+        print(x)
