@@ -1,4 +1,4 @@
-# Convert text from the frase with underscores to lower letter
+# Convert text from the phrase with underscores to lower letter
 # A. Topp
 
 s = "hello_string_processing_InPython"

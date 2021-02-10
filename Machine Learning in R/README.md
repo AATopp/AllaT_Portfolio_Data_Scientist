@@ -1,5 +1,5 @@
 # Machine_Learning_R
-In this Repository I am going to introduse my machine learning projects performed in R as part of deliverables in Data Science Graduate Program at Regis University.
+In this Repository I am going to introduce my machine learning projects performed in R as part of deliverables in Data Science Graduate Program at Regis University.
 The projects are based on a few ML algorithms, such as Naive Bayes(NB), Decision Trees/ Random Forest, K-Nearest Neighbor(KNN), Artificial Neural Network(ANN), Support Vector Machine(SVM) and K-Means/Hierarchical Clustering(HCA). 
 
 
