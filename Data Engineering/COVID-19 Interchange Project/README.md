@@ -43,9 +43,9 @@ To work on this project I decided to use Pandas in Jupyter notebook because all 
 
 **Cleaning**
 
-To make sure that data is in the data frame to work with, I show it with `df.head()` and `df.tail()`. Now some data exploration and cleaning can be done. During this step I noticed a couple things. First, all data sets have different numbers of rows and all of them have two key columns: date and state that will be used to merge all the datasets. Second, the column state has name mismatch. New York Times dataset has full state name and Healthdata datasets have abbreviated state names. In order to move datasets together we need those two columns exactly the same to set key columns. To accomplish the task I decided to go with map() function in Python. To remap the dataframe to translate US states to two letter code we need a dictionary with all the US states as key:value. See below. 
+To make sure that data is in the data frame to work with, I show it with `df.head()` and `df.tail()`. Now some data exploration and cleaning can be done. During this step I noticed a couple things. First, all data sets have different numbers of rows and all of them have two key columns: date and state that will be used to merge all the datasets. Second, the column state has name mismatch. New York Times dataset has full state name and Healthdata datasets have abbreviated state names. In order to move datasets together we need those two columns exactly the same to set key columns. To accomplish the task I decided to go with `map()` function in Python. To remap the dataframe to translate US states to two letter code we need a dictionary with all the US states as key:value. See below. 
 
-<img src="https://lh5.googleusercontent.com/TK6PtYEo5D2ekxTDIrW4N295YHxzxSsSe5Ec8mhlvjPWPyvxSkI3hyRUYCti-0_2hhgy6i5dexYOX7I3JXJrv0wKwod9zFnGyP9bCQHp6r5ThMxYq6giYbDtus0z89rjBI0p3P1H" alt="img" style="zoom: 67%;" />
+<img src="https://lh5.googleusercontent.com/TK6PtYEo5D2ekxTDIrW4N295YHxzxSsSe5Ec8mhlvjPWPyvxSkI3hyRUYCti-0_2hhgy6i5dexYOX7I3JXJrv0wKwod9zFnGyP9bCQHp6r5ThMxYq6giYbDtus0z89rjBI0p3P1H" alt="img" style="zoom:50%;" />
 
 <img src="https://lh6.googleusercontent.com/uU-GlbVZMfzNPcrmJ8zMuqVG_8ytsoPcJnr1eaYQ9Ni7Nahc-2nnxD-sVhU3Bk5ioMMaVhKYhRNA5e9QKPcBvKuy1rmO923r04enIaQqxrOxUkoSpRXBPdNTZq99r7eV9STApNdH" alt="img" style="zoom: 50%;" />
 
