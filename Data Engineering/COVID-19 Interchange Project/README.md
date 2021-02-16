@@ -57,6 +57,6 @@ To merge data I used `pd.merge()` on state and date. I merged the 3 health datas
 
 The final output turned out to be merged only with matching rows from all 4 dataset without missing and duplicate values. The idea behind the final output is to have a data set of updated COVID-19 cases, deaths and numbers of occupied beds in hospitals by date and state. In the final data set there are 32 columns with all the information needed to use to track the cases and ratio of how many hospital beds are used and how many there are available. 
 
-![image-20210215212943499](C:\Users\aleks\AppData\Roaming\Typora\typora-user-images\image-20210215212943499.png)
+![img](https://lh5.googleusercontent.com/vyCL405dCw87Nfn-QfRiNfu8wk8-7ZUNlGH5xw4MkdQF_dn8pPdjSCkaTLZeJwOuE6OUXsKgl6R147s4YfdjBqLG3j4FllqKyVRPZ4bk1s21_JZfqtSynqToEmkVf6JVnzuLU-iA)
 
 ### Conclusion
