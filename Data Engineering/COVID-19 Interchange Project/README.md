@@ -3,15 +3,11 @@
 Researchers hoping to utilize publicly available datasets around the virus sars-cov-2 (commonly known by its disease name COVID-19) currently have many options for data points. While the variety of data available provide a wealth of information, a key issue is that data are not located in one central location but rather maintained by a myriad of private and public sources. Data must be wrangled from different locations around the web and joined together before considered suitable for analysis. 
 The aim of this interconnection project is to bring together two common data points used by researchers interested in tracking the COVID-19 epidemic: daily cases and deaths, and hospital utilization rates. I first describe how the data were sourced, the interconnection tasks, and finally where to locate the final joined dataset.
 
-
-
 ### Flow of the project
 
 ![img](https://lh3.googleusercontent.com/sJmCDuqM1sCy2OXYlXX-4SRsAmbVEtihRsB6zVMSMWECH0VEngrWvEb4MLuYV5Yzk0uluD8TxIw1TO6ERf_AXclUNUfmBOOjI7ARlIcOGrq9ycseDf_VXwKR1f3__kwF0ncRW2XY)
 
 <u>Fig. 1. Data Interconnection Process</u>
-
-
 
 Read-in data, show the data, EDA, map, compare rows, merging, NYT column names change, final merge, saving file in different formats, data update. To make it easier to see the flow of the project I showed it on the graph below. As we can see there are a few steps to get to the final result. In the beginning I import all datasets into pandas and run quick exploration like length, missing values and duplicates and overall look of the data, then I start working on cleaning it. In my case I remap the state column names to make them match in all of the data sets and change the key column names to merge the data. Then I merge 3 healthdata datasets first, and in the end I merge NYT data with the healthdata. When it's done, I check if everything looks right and export the data into different file formats. 
 
