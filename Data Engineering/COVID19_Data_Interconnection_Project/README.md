@@ -37,9 +37,9 @@ The code generates the combined dataset and downloads it under the name 'final_c
 * [Anaconda](https://www.anaconda.com/products/individual#Downloads) 
 
 ## Datasets
-[Occupied Patients](https://healthdata.gov/dataset/COVID-19-Estimated-Inpatient-Beds-Occupied-by-Stat/jjp9-htie)
-[Occupied COVID Patients](https://healthdata.gov/dataset/COVID-19-Estimated-Inpatient-Beds-Occupied-by-COVI/py8k-j5rq)
-[Occupied ICU beds](https://healthdata.gov/dataset/COVID-19-Estimated-ICU-Beds-Occupied-by-State-Time/7ctx-gtb7)
+* [Occupied Patients](https://healthdata.gov/dataset/COVID-19-Estimated-Inpatient-Beds-Occupied-by-Stat/jjp9-htie)
+* [Occupied COVID Patients](https://healthdata.gov/dataset/COVID-19-Estimated-Inpatient-Beds-Occupied-by-COVI/py8k-j5rq)
+* [Occupied ICU beds](https://healthdata.gov/dataset/COVID-19-Estimated-ICU-Beds-Occupied-by-State-Time/7ctx-gtb7)
 
 ## Authors
 
