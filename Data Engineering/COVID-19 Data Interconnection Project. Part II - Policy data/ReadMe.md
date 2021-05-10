@@ -1,4 +1,4 @@
-COVID-19 Data Interconnection Project. Part II - Policy data
+# COVID-19 Data Interconnection Project. Part II - Policy data
 
 The aim of this project is 
 
@@ -14,7 +14,7 @@ When working in Jupyter through Anaconda, just launch the Jupyter app from your 
 
 ## Expected Output
 
-The code generates the combined dataset and downloads it under the name 'final_covid.csv'
+The code generates the combined dataset and downloads it under the name 'policy_final.csv' and 'COVID_policy_data'
 
 ## Built With
 
@@ -24,9 +24,9 @@ The code generates the combined dataset and downloads it under the name 'final_c
 
 ## Datasets
 
-- 
-- 
-- 
+- [COVID-19 State and County Policy Orders](https://healthdata.gov/dataset/COVID-19-State-and-County-Policy-Orders/gyqz-9u7n)
+- Policy_data.csv
+- final_covid.csv
 
 ## Authors
 
